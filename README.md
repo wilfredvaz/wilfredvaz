@@ -25,7 +25,3 @@ With over 18 years of experience in delivering complex enterprise solutions, I s
 **Location:** Pune, India
 
 Connect with me to collaborate on innovative technology solutions that transform business operations and accelerate growth.
-
----
-
-Would you like me to create a more detailed README file or specific snippets for your repositories?
