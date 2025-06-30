@@ -1,7 +1,3 @@
-Certainly! Here's a tailored GitHub bio/profile summary that encapsulates your extensive experience, technical expertise, and leadership in a professional and concise manner suitable for your GitHub profile:
-
----
-
 # Wilfred Vaz
 
 **Results-driven Technology Leader | Digital Transformation | Infrastructure & Automation | Cross-functional Team Management**
